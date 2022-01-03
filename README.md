@@ -9,6 +9,7 @@
     |/     \||/     \||/    )_)(_______)|/     \||/     \||/    )_)
 
 HangmanSQL.cpp where SQL database                         
-    This code uses mysql-connector-c++
+    This code using mysql-connector-c++
 
 HangmanTXT.cpp where database is txt file
+    using fstream
