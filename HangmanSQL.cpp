@@ -1,3 +1,7 @@
+//Made by MinDl
+//
+//3.1.2022
+//
 #include <iostream>
 #include <jdbc.h>
 #include <string>
