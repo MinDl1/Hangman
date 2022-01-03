@@ -11,5 +11,5 @@
 HangmanSQL.cpp where SQL database                         
     This code using mysql-connector-c++
 
-HangmanTXT.cpp where database is txt file
+HangmanTXT.cpp where database is txt file                       
     using fstream
