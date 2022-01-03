@@ -1,6 +1,14 @@
 # Hangman
-Game "Hangman"
+              _______  _        _______  _______  _______  _
+    |\     /|(  ___  )( (    /|(  ____ \(       )(  ___  )( (    /|
+    | )   ( || (   ) ||  \  ( || (    \/| () () || (   ) ||  \  ( |
+    | (___) || (___) ||   \ | || |      | || || || (___) ||   \ | |
+    |  ___  ||  ___  || (\ \) || | ____ | |(_)| ||  ___  || (\ \) |
+    | (   ) || (   ) || | \   || | \_  )| |   | || (   ) || | \   |
+    | )   ( || )   ( || )  \  || (___) || )   ( || )   ( || )  \  |
+    |/     \||/     \||/    )_)(_______)|/     \||/     \||/    )_)
 
-HangmanSQL.cpp where SQL database
+HangmanSQL.cpp where SQL database                         
+    This code uses mysql-connector-c++
 
 HangmanTXT.cpp where database is txt file
